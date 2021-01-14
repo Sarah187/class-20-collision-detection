@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# collision detection output
+https://sarah187.github.io/class-20-collision-detection/
